@@ -1,0 +1,19 @@
+namespace: katsdp
+name: general
+version: 0.1.0
+readme: README.md
+authors:
+- "Martin Slabber <martin@ska.ac.za>"
+description: Collection of miscellaneous roles
+license:
+- BSD-3-Clause
+tags:
+  - MeerKAT
+  - SARAO
+  - SDP
+  - KAT
+dependencies: {}
+repository: https://github.com/ska-sa/katsdp-ansible-collection
+documentation: https://github.com/ska-sa/katsdp-ansible-collection/docs
+homepage: https://github.com/ska-sa/katsdp-ansible-collection
+# issues: https://github.com/ska-sa/katsdp-ansible-collection/issues
